@@ -1,0 +1,16 @@
+.allo{
+    background-color:#fff;
+}
+
+.myTitle{
+    margin:auto;
+    background-color: aqua;
+}
+.jumbotron{
+    color: white;
+    background-image: url("../img/demo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
